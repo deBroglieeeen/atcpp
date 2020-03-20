@@ -1,0 +1,1 @@
+[2020-01-02 12:20:35.410] [renderer1] [warning] UNRESPONSIVE extension host, 'vscodevim.vim' took 99% of 3499.035ms, saved PROFILE here: '/tmp/exthost-f757e2.cpuprofile' [{"id":"gc","total":19796,"percentage":1},{"id":"program","total":155,"percentage":0},{"id":"self","total":11651,"percentage":0},{"id":"vscodevim.vim","total":3467083,"percentage":99}]

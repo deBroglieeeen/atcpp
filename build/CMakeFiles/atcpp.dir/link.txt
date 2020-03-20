@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/atcpp.dir/033_a.cpp.o  -o atcpp 

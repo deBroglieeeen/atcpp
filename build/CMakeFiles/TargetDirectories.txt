@@ -1,0 +1,3 @@
+/cpp-dev/build/CMakeFiles/rebuild_cache.dir
+/cpp-dev/build/CMakeFiles/atcpp.dir
+/cpp-dev/build/CMakeFiles/edit_cache.dir

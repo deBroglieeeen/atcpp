@@ -1,0 +1,36 @@
+[2020-01-02 12:20:25.317] [exthost] [info] extension host started
+[2020-01-02 12:20:26.380] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2020-01-02 12:20:26.380] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-01-02 12:20:26.928] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2020-01-02 12:20:26.928] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-01-02 12:20:27.296] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2020-01-02 12:20:27.296] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2020-01-02 12:20:27.964] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2020-01-02 12:20:27.964] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-01-02 12:20:28.148] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"activationEvent":"*"}
+[2020-01-02 12:20:28.148] [exthost] [info] ExtensionService#loadCommonJSModule /home/liang/.vscode/extensions/vscodevim.vim-1.12.4/out/extension
+[2020-01-02 12:20:34.893] [exthost] [info] eager extensions activated
+[2020-01-02 12:23:05.771] [exthost] [info] extension host started
+[2020-01-02 12:23:05.794] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2020-01-02 12:23:05.794] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-01-02 12:23:05.875] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2020-01-02 12:23:05.875] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-01-02 12:23:05.970] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2020-01-02 12:23:05.970] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2020-01-02 12:23:06.156] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2020-01-02 12:23:06.156] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-01-02 12:23:06.195] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"activationEvent":"*"}
+[2020-01-02 12:23:06.195] [exthost] [info] ExtensionService#loadCommonJSModule /home/liang/.vscode/extensions/vscodevim.vim-1.12.4/out/extension
+[2020-01-02 12:23:09.828] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cmake-tools {"startup":true,"activationEvent":"workspaceContains:**/CMakeLists.txt"}
+[2020-01-02 12:23:09.828] [exthost] [info] ExtensionService#loadCommonJSModule /home/liang/.vscode/extensions/ms-vscode.cmake-tools-1.2.3/dist/main
+[2020-01-02 12:23:10.618] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":false}
+[2020-01-02 12:23:10.618] [exthost] [info] ExtensionService#loadCommonJSModule /home/liang/.vscode/extensions/ms-vscode.cpptools-0.26.2/dist/main
+[2020-01-02 12:23:11.185] [exthost] [info] eager extensions activated
+[2020-01-02 12:23:21.556] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2020-01-02 12:23:21.556] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2020-01-02 12:23:21.822] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2020-01-02 12:23:21.822] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2020-01-02 12:23:21.965] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:json"}
+[2020-01-02 12:23:21.965] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2020-01-02 12:23:22.176] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onLanguage:json"}
+[2020-01-02 12:23:22.176] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/npm/dist/main
